@@ -2,7 +2,7 @@
 
 ## 🎥 Demo & Code
 
-- 🔗 **[🔍 View Code on GitHub](https://github.com/yourusername/photometric-stereo-cs217)**  
+- 🔗 **[🔍 View Demo](https://shrestho10.github.io/shagoto-mesh-website/)**  
 - 📽️ **[🎬 Watch Project Video Demo](https://youtu.be/your_video_demo_link)**
 
 ---
