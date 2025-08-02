@@ -69,42 +69,7 @@ Estimate surface normals and shape using three different approaches:
   - LCNet (light classification)
   - NENet (normal regression)
 
----
 
-
-
-## 📊 Training Setup
-
-- **Simple CNN**:
-  - Dataset: DiLiGenT
-  - Epochs: 20 | Batch size: 1
-
-- **SDPS-Net**:
-  - LCNet: 20 epochs | Batch size: 32
-  - NENet: 10 epochs | Batch size: 16
-  - Dataset: Blobby + Sculpture
-
----
-
-## 📈 Evaluation
-
-- **Quantitative**: Angular error between predicted and GT normals  
-- **Qualitative**: Mesh visualizations from different lighting conditions  
-- 3D depth maps reconstructed using the same pipeline in all methods
-
----
-
-## 📚 References
-
-1. Woodham, R. J. (1980) – Original Photometric Stereo  
-2. Ikehata et al. (2014) – Robust Photometric Stereo  
-3. PS-FCN (2018) – Deep Learning with Calibrated Lighting  
-4. SDPS-Net (2019) – Self-Calibrating Deep PS  
-5. Frankot & Chellappa (1988) – Depth Integration  
-6. DiLiGenT Benchmark  
-7. Yale Face Dataset  
-
----
 
 ## 👤 Author
 
